@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<runningparameters>
+	<accesskey>AKIAIAGBUP4ZO6G343CA</accesskey>
+	<secretkey>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</secretkey>
+	<keyfile>/home/hieuht/Desktop/webtool.pem</keyfile>
+	<readybucketname>tdcready2</readybucketname>
+	<donebucketname>tdcdone2</donebucketname>
+	<managertodownloader>https://sqs.us-east-1.amazonaws.com/165392776648/ManagerToDownloader
+	</managertodownloader>
+	<applicationtomanager>https://sqs.us-east-1.amazonaws.com/165392776648/ApplicationToManager
+	</applicationtomanager>
+	<policyconfig>https://sqs.us-east-1.amazonaws.com/165392776648/PolicyConfiguration
+	</policyconfig>
+	<queuelength>100</queuelength>
+	<numberofdownloader>1</numberofdownloader>
+	<downloadspeed>10</downloadspeed>
+	<pagerankthreshold>0.001</pagerankthreshold>
+	<totalpages>10000</totalpages>
+	<pagerankmaxloop>10</pagerankmaxloop>
+	<countryfilters>
+		<urlcountry>com</urlcountry>
+		<urlcountry>be</urlcountry>
+	</countryfilters>
+	<filetypefilters>
+		<urlfiletype>pdf</urlfiletype>
+		<urlfiletype>html</urlfiletype>
+		<urlfiletype>htm</urlfiletype>
+	</filetypefilters>
+	<seedurls>
+			<url>https://www.uantwerp.be/en/</url>
+			<url>http://www.msn.be</url>
+			<url>http://www.ubuntu.com/</url>
+			<url>http://www.foxnews.com/</url>
+			<url>http://www.flanderstoday.eu/</url>
+			<url>http://www.ebay.be</url>
+			<url>http://www.facebook.com</url>
+	</seedurls>
+</runningparameters>
+
+
+
